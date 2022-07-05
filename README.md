@@ -2,4 +2,4 @@
 
 UCF Summer 2022
 
-Professor:
+Professor: Andrew Steinberg
