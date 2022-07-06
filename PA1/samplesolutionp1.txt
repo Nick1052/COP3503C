@@ -1,0 +1,36 @@
+Beginning Test Cases
+*********************************
+TEST 1
+TESTING When Array holds 1000 Tickets
+Testing Solution 1
+Solution 1 Test 1 Passed!
+Testing Solution 2
+Solution 2 Test 1 Passed!
+*********************************
+TEST 2
+TESTING When Array holds 2000 Tickets
+Testing Solution 1
+Solution 1 Test 2 Passed!
+Testing Solution 2
+Solution 2 Test 2 Passed!
+*********************************
+TEST 3
+TESTING When Array holds 5000 Tickets
+Testing Solution 1
+Solution 1 Test 3 Passed!
+Testing Solution 2
+Solution 2 Test 3 Passed!
+*********************************
+TEST 4
+TESTING When Array holds 9000 Tickets
+Testing Solution 1
+Solution 1 Test 4 Passed!
+Testing Solution 2
+Solution 2 Test 4 Passed!
+*********************************
+TEST 5
+TESTING When Array holds 100000 Tickets
+Testing Solution 1
+Solution 1 Test 5 Passed!
+Testing Solution 2
+Solution 2 Test 5 Passed!
