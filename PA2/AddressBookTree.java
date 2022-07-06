@@ -1,3 +1,9 @@
+/* Nicolas Gonzalez
+ * Dr. Andrew Steinberg
+ * COP3503 Summer 2022
+ * Programming Assignment 2
+ */
+
 class Node<T extends Comparable,U extends Comparable> {
     T name;
     U office;
