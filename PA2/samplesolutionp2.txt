@@ -1,0 +1,123 @@
+*************************************************
+Beginning Test Cases...
+Test Case 1...
+Testing the initial setup...
+Abhijit Mahalanobis HEC-244
+Amy Poehler HEC-300
+Andrew Steinberg HEC-341
+Annie Wu HEC-314
+Arup Guha HEC-240
+Carolina Cruz-Neira HEC-214
+Charles Hughes HEC-247C
+Chris Pratt HEC-123G
+Cliff Zou HEC-243
+Damian Dechev HEC-221
+Damla Turgut HEC-316
+Dan Marinescu HEC-304
+David Mohaisen HPA2-240
+Delores Umbridge HEC-108D
+Dirk Reiners HEC-220
+Euripides Montagne HEC-216
+Fei Liu HEC-217
+Gary T. Leavens HEC-329
+Gita Sukthankar HEC-232
+Haiyan Hu HEC-233
+Hassan Foroosh HEC-212
+Jennifer Lawrence HEC-001B
+Johnathan Mell HPA2-238G
+Johnny Depp HEC-001A
+Joseph LaViola II HEC-321
+Karin Markle HEC-412
+Kien Hua HEC-229
+Ladislau Boloni HEC-319
+Liqiang Wang HEC-437E
+Mark Heinrich HEC-345
+Mark LLewellyn HEC-236
+Matthew Gerber HEC-257
+Melisa Mccarthy HEC-112
+Mubarak Shah HEC-245D
+Niels da Vitoria Lobo HEC-252
+Pamela Wisniewski HEC-217A
+Paul Gazzillo HEC-239
+Reza Aria HEC-258
+Richard Leinecker HEC-357
+Ryan McMahan HEC-433
+Ryan Reynolds HEC-002C
+Sarah Angell HEC-230
+Scarlett Johansson HEC-004
+Sean Szumlanski HEC-219
+Shaojie Zhang HEC-311
+Sharma Thankachan HEC-207
+Shibu Yooseph BIO-133A
+Sumanta Pattanaik HEC-437E
+Tanvir Ahmed ENG1-453
+Thomas Nedorost HEC-317
+Tom Holland HEC-003D
+Travis Meade HEC-328
+Wei Zhang BIO-137B
+Yan Solihin HPA2-239
+Yanjie Fu HPA2-238
+Yogesh Singh Rawat HEC-241
+TEST 1 Passed!
+*************************************************
+Test Case 2...
+Testing the insert method...
+Inserting some items...
+TEST 2 Passed!
+*************************************************
+*************************************************
+Test Case 3...
+Testing the deletion method...
+Removing some items...
+TEST 3 Passed!
+Ending Test Cases...
+*************************************************
+Abhijit Mahalanobis HEC-244
+Andrew Steinberg HEC-341
+Annie Wu HEC-314
+Arup Guha HEC-240
+Carolina Cruz-Neira HEC-214
+Charles Hughes HEC-247C
+Cliff Zou HEC-243
+Damian Dechev HEC-221
+Damla Turgut HEC-316
+Dan Marinescu HEC-304
+David Mohaisen HPA2-240
+Dirk Reiners HEC-220
+Euripides Montagne HEC-216
+Fei Liu HEC-217
+Gary T. Leavens HEC-329
+Gita Sukthankar HEC-232
+Haiyan Hu HEC-233
+Hassan Foroosh HEC-212
+Johnathan Mell HPA2-238G
+Joseph LaViola II HEC-321
+Karin Markle HEC-412
+Kien Hua HEC-229
+Ladislau Boloni HEC-319
+Liqiang Wang HEC-437E
+Mark Heinrich HEC-345
+Mark LLewellyn HEC-236
+Matthew Gerber HEC-257
+Mubarak Shah HEC-245D
+Niels da Vitoria Lobo HEC-252
+Pamela Wisniewski HEC-217A
+Paul Gazzillo HEC-239
+Reza Aria HEC-258
+Richard Leinecker HEC-357
+Ryan McMahan HEC-433
+Sarah Angell HEC-230
+Sean Szumlanski HEC-219
+Shaojie Zhang HEC-311
+Sharma Thankachan HEC-207
+Shibu Yooseph BIO-133A
+Sumanta Pattanaik HEC-437E
+Tanvir Ahmed ENG1-453
+Thomas Nedorost HEC-317
+Travis Meade HEC-328
+Wei Zhang BIO-137B
+Yan Solihin HPA2-239
+Yanjie Fu HPA2-238
+Yogesh Singh Rawat HEC-241
+*************************************************
+Yay! All test cases passed!
